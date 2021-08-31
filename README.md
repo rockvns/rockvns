@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Flutter, Django, Express, Angular, React**
 
-- 👨‍💻 Visit My portfolio at [mixomate.herokuapp.com/portfolio/rockvns](mixomate.herokuapp.com/portfolio/rockvns)
+- 👨‍💻 Visit My [portfolio](mixomate.herokuapp.com/portfolio/rockvns)
 
-- 📝 I regularly write articles on [mixomate.herokuapp.com/blogs](mixomate.herokuapp.com/blogs)
+- 📝 I regularly write articles on [my websites](mixomate.herokuapp.com/blogs)
 
 - 💬 Ask me about **Django, React, DRF, graphql**
 
@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/c/code classifieds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="code classifieds" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC5Bp1eXk0L9blNIAeop7QBQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="code classifieds" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
