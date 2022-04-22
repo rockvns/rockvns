@@ -6,17 +6,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rockvns" alt="rockvns" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter, Django, Express, Angular, React**
+- 🌱 My skill set: **{Pyton, Flask, Django, Angular, React}**
 
-- 👨‍💻 Visit My [portfolio](mixomate.herokuapp.com/portfolio/rockvns)
+<!-- - 👨‍💻 Visit My [portfolio](mixomate.herokuapp.com/portfolio/rockvns) -->
 
-- 📝 I regularly write articles on [my websites](mixomate.herokuapp.com/blogs)
+<!-- - 📝 I regularly write articles on [my websites](mixomate.herokuapp.com/blogs) -->
 
-- 💬 Ask me about **Django, React, DRF, graphql**
+- 💬 I also have working experience of **REST api, graphQL**
 
-- 📫 How to reach me **r0ck.001.vns@gmail.com**
+- 📫 How to reach me **chandrabhanvns@gmail.com**
 
-- 📄 Know about my experiences [mixomate.herokuapp.com/team/resume/rockvns](mixomate.herokuapp.com/team/resume/rockvns)
+<!-- - 📄 Know about my experiences [mixomate.herokuapp.com/team/resume/rockvns](mixomate.herokuapp.com/team/resume/rockvns) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
