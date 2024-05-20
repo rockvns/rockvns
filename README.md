@@ -29,6 +29,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rockvns&show_icons=true&theme=dracula&title_color=fffb87&text_color=ffffff&locale=en&layout=compact" alt="rockvns" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rockvns&show_icons=true&theme=dracula&title_color=fffb85&text_color=ffffff&locale=en" alt="rockvns" /></p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rockvns&theme=dark" alt="rockvns" /></p>
